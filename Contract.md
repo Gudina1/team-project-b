@@ -1,8 +1,8 @@
 # Goals
 Our primary objective as a team will be to complete our project successfully through a combination of our own individual strengths and collaborative work. We hope to maintain clear communication and hold each other accountable throughout this process. Our final product will be the fruit of this and something we all should be proud of. 
 # Strengths
-Anthony: One of my biggest strengths is my adaptability. If necessary, I would have no issue finding alternate meeting times, taking over a certain task, or being willing to take on a different plan. This comes in handy during group work, where each member may hold a different opinion or thought process. 
-Fenan: One of my strengths is a good time management. I'm also flexible and willing to step in to fill any gaps as needed.
+- Anthony: One of my biggest strengths is my adaptability. If necessary, I would have no issue finding alternate meeting times, taking over a certain task, or being willing to take on a different plan. This comes in handy during group work, where each member may hold a different opinion or thought process. 
+- Fenan: One of my strengths is a good time management. I'm also flexible and willing to step in to fill any gaps as needed.
 # Rules
 We believe that our work must embody each member's individual effort and ideas. 
 #### Meetings
